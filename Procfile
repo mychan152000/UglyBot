@@ -1,1 +1,1 @@
-worker: node bot.js UglyBot
+worker: node bot.js 
